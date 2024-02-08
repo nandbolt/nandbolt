@@ -5,6 +5,7 @@
 - 💬 Ask me about GameMaker, procedural level generation, enemy AI and physics
 - 📫 How to reach me:
       - [discord](https://discord.com/users/389247859578634241)
+      - [linkedin](https://www.linkedin.com/in/alexander-wilson-b5097916a/)
 
 Most of the cool things I do are located on my game page [here](https://nandbolt.itch.io/).
 <!--
