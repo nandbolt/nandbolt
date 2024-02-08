@@ -6,6 +6,7 @@
 - 📫 How to reach me:
       - [discord](https://discord.com/users/389247859578634241)
 
+Most of the cool things I do are located on my game page [here](https://nandbolt.itch.io/).
 <!--
 **nandbolt/nandbolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
