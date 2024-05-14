@@ -1,8 +1,10 @@
 ### Hi there 👋
-- ⚡ I'm currently a 3rd year computational physics major at the University of Texas at Austin.
-- 🔭 I’m currently working on several small game projects for school.
-- 🌱 I’m currently focusing my efforts on learning Python and C++ and am hoping to have 2 relevant projects in each language soon!
-- 💬 Ask me about GameMaker, procedural level generation, enemy AI and physics
+- ⚡ I'm currently a 4th year computational physics major at the University of Texas at Austin.
+- 🔭 I’m currently working on 2 large projects with GameMaker Studio 2:
+  - Graphmatical: A complete remake of my graphing calculator platformer ILIAGC with a new emphasis on fun, learning, user-generated content and general improvements to everything.
+  - A secret action game that will be larger in scope than any of my past projects.
+- 🌱 I’m currently focusing my efforts on mastering Python and C++.
+- 💬 Ask me about GameMaker, procedural level generation, enemy AI and physics.
 - 📫 How to reach me:
       - [discord](https://discord.com/users/389247859578634241)
       - [linkedin](https://www.linkedin.com/in/alexander-wilson-b5097916a/)
