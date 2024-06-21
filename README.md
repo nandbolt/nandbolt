@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/48170421?v=4" title="GameMaker" alt="GameMaker" width="160" height="160"/>&nbsp;
+  <img src="https://github.com/nandbolt/Unfinished-Projects/blob/main/nand-gate.gif" title="nandbolt" alt="nandbolt" width="256" height="256"/>&nbsp;
   <div id="badges">
     <a href="https://nandbolt.itch.io/">
       <img src="https://img.shields.io/badge/Itch-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch Badge"/>
