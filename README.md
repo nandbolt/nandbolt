@@ -36,6 +36,9 @@
   <a href="https://nandbolt.itch.io/one-handed">
     <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/oh-gif.gif" title="One-Handed" alt="One-Handed" width="160" height="90"/>&nbsp;
   </a>
+  <a href="https://nandbolt.itch.io/nowhere-near-earth">
+    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/nne-gif.gif" title="One-Handed" alt="One-Handed" width="160" height="90"/>&nbsp;
+  </a>
 </div>
 
 ### About Me :
