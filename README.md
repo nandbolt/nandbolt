@@ -37,7 +37,10 @@
     <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/oh-gif.gif" title="One-Handed" alt="One-Handed" width="160" height="90"/>&nbsp;
   </a>
   <a href="https://nandbolt.itch.io/nowhere-near-earth">
-    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/nne-gif.gif" title="One-Handed" alt="One-Handed" width="160" height="90"/>&nbsp;
+    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/nne-gif.gif" title="Nowhere Near Earth" alt="Nowhere Near Earth" width="160" height="90"/>&nbsp;
+  </a>
+  <a href="https://nandbolt.itch.io/oh3d">
+    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/oh3d-gif.gif" title="OH3D" alt="OH3D" width="160" height="90"/>&nbsp;
   </a>
 </div>
 
