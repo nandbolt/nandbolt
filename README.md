@@ -16,13 +16,13 @@
 ### Some Of My Creations:
 <div>
   <a href="https://github.com/nandbolt/Graphmatical">
-    <img src="https://github.com/nandbolt/Graphmatical/blob/main/gifs/gif-1.gif" title="GameMaker" alt="GameMaker" width="160" height="90"/>&nbsp;
+    <img src="https://github.com/nandbolt/Graphmatical/blob/main/gifs/gif-1.gif" title="Graphmatical!" alt="Graphmatical!" width="160" height="90"/>&nbsp;
   </a>
   <a href="https://github.com/nandbolt/Monster-Cycle">
-    <img src="https://github.com/nandbolt/Monster-Cycle/blob/main/gifs/mc_gif-2-crop.gif" title="GameMaker" alt="GameMaker" width="160" height="90"/>&nbsp;
+    <img src="https://github.com/nandbolt/Monster-Cycle/blob/main/gifs/mc_gif-2-crop.gif" title="Monster Cycle" alt="Monster Cycle" width="160" height="90"/>&nbsp;
   </a>
   <a href="https://github.com/nandbolt/Box-Engine">
-    <img src="https://github.com/nandbolt/Box-Engine/blob/main/gifs/box-engine_platformer.gif" title="GameMaker" alt="GameMaker" width="160" height="90"/>&nbsp;
+    <img src="https://github.com/nandbolt/Box-Engine/blob/main/gifs/box-engine_platformer.gif" title="Box Engine" alt="Box Engine" width="160" height="90"/>&nbsp;
   </a>
 </div>
 
