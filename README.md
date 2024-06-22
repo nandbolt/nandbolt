@@ -48,6 +48,9 @@
   <a href="https://quietwarrior.itch.io/get-to-work">
     <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/gtw-gif.gif" title="Get to work" alt="Get to work" width="160" height="90"/>&nbsp;
   </a>
+  <a href="https://nandbolt.itch.io/neokyo-city">
+    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/nc-gif.gif" title="Neokyo City" alt="Neokyo City" width="160" height="90"/>&nbsp;
+  </a>
 </div>
 
 ### About Me :
