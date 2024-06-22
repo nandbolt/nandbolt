@@ -27,6 +27,9 @@
   <a href="https://team-7-ut.itch.io/radioactive-waste-training">
     <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/rwt-gif.gif" title="Radioactive Waste Training" alt="Radioactive Waste Training" width="160" height="90"/>&nbsp;
   </a>
+  <a href="https://nandbolt.itch.io/iliagc">
+    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/iliagc-gif.gif" title="ILIAGC" alt="ILIAGC" width="160" height="90"/>&nbsp;
+  </a>
 </div>
 
 ### About Me :
