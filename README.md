@@ -42,6 +42,9 @@
   <a href="https://nandbolt.itch.io/oh3d">
     <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/oh3d-gif.gif" title="OH3D" alt="OH3D" width="160" height="90"/>&nbsp;
   </a>
+  <a href="https://nandbolt.itch.io/hopstep-demo">
+    <img src="https://github.com/nandbolt/nandbolt/blob/main/gifs/hopstep-gif.gif" title="Hopstep (Demo)" alt="Hopstep (Demo)" width="160" height="90"/>&nbsp;
+  </a>
 </div>
 
 ### About Me :
