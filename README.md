@@ -14,7 +14,7 @@
 </div>
 
 ### Some Things I've Worked On:
-<div>
+<div align="center">
   <a href="https://github.com/nandbolt/Graphmatical">
     <img src="https://github.com/nandbolt/Graphmatical/blob/main/gifs/gif-1.gif" title="Graphmatical!" alt="Graphmatical!" width="160" height="90"/>&nbsp;
   </a>
