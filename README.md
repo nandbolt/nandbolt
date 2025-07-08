@@ -16,7 +16,7 @@
    > I’m currently trying to master C# with Unity.
    > I'm currently working on several different projects, including:
 +      > V-Shift, an online multiplayer 2D battle platformer on Steam now, with a talented team at Propel Studios.
-+      > Various ongoing solo projects in GameMaker Studio 2.
++      > A game utilizing a 2D physics engine I made in GameMaker Studio 2 (nbphysics) set to release on Steam this year.
    > Ask me about GameMaker, procedural level generation, enemy AI and physics.
 
 !   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
